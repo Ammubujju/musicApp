@@ -1,0 +1,26 @@
+#logo{
+width:150px;
+/* float: left; */
+padding-right: 10px;
+
+}
+
+#search >*:not(:first-child){
+/* float: right; */
+padding-left:370px;
+
+}
+ 
+ #search{
+    padding: 60px;
+} 
+
+#button{
+background-color:rgb(219, 212, 212);
+
+}
+
+#playlist{
+    background-color:rgb(219, 212, 212);
+    /* background-size: 300px; */
+}
